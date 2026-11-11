@@ -1,0 +1,5 @@
+/* Analyze-only layout; Explore and Understand retain their styles. */
+body[data-page="analyze"] main{max-width:none;padding:0;width:100%}
+body[data-page="analyze"] #planner-page{padding:0;min-height:0}
+#analyze-workspace-frame{display:block;width:100%;height:calc(100dvh - 94px);min-height:480px;border:0;background:#080a0a}
+body[data-page="analyze"] main>footer{display:none}

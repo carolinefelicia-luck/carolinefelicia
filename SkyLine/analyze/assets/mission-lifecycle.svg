@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4020" height="1003" viewBox="0 0 4020 1003">
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#63798a"/></marker><marker id="amber" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#aa6a22"/></marker></defs>
+<rect width="4020" height="1003" fill="#ffffff"/>
+<rect width="4020" height="145" fill="#112d40"/>
+<text x="50" y="57" font-family="Arial, sans-serif" font-size="30" fill="#ffffff" font-weight="700">LUNAR MISSION PLANNER / 01 OVERVIEW</text>
+<text x="50" y="103" font-family="Arial, sans-serif" font-size="17" fill="#cfe1eb" font-weight="400">Seluruh lifecycle • Detail 03 di halaman 02; 04–06 di halaman 03; 09 di halaman 04</text>
+<text x="50" y="184" font-family="Arial, sans-serif" font-size="14" fill="#21374b" font-weight="400">TEAL: planner / science    |    BLUE: tools / analysis / test    |    GOLD: review / authority    |    LILAC: handoff / execution</text>
+<rect x="50" y="220" width="320" height="92" rx="12" fill="#e7f5f3" stroke="#137e78" stroke-width="2"/>
+<text x="68" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">01  Tetapkan tujuan sains</text>
+<rect x="50" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M210.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="66" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="66" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Science team + mission planner</text>
+<text x="66" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="66" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Pertanyaan ilmiah dan kebutuhan</text>
+<text x="66" y="558" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">stakeholder.</text>
+<text x="66" y="594" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="66" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Ubah tujuan menjadi pengukuran dan</text>
+<text x="66" y="630" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">kriteria keberhasilan.</text>
+<text x="66" y="666" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="66" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Science objectives dan prioritas.</text>
+<text x="66" y="720" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="66" y="738" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Apa bukti minimum agar tujuan tercapai?</text>
+<text x="66" y="774" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="66" y="792" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R1 §3.2; R2 §2.</text>
+<rect x="450" y="220" width="320" height="92" rx="12" fill="#e7f5f3" stroke="#137e78" stroke-width="2"/>
+<text x="468" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">02  Susun requirements &amp;</text>
+<text x="468" y="282" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">ConOps</text>
+<rect x="450" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M610.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="466" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="466" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Systems engineering + planner</text>
+<text x="466" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="466" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Tujuan, kapabilitas rover/lander, biaya</text>
+<text x="466" y="558" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">dan jadwal.</text>
+<text x="466" y="594" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="466" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Alokasikan batas operasi dan susun</text>
+<text x="466" y="630" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">skenario nominal serta contingency.</text>
+<text x="466" y="666" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="466" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Requirements, ConOps, daftar</text>
+<text x="466" y="702" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">constraints.</text>
+<text x="466" y="738" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="466" y="756" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Konsep konsisten dan dapat diuji?</text>
+<text x="466" y="792" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="466" y="810" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R1 §3.3–3.4.</text>
+<path d="M370 266.0 H445" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="850" y="220" width="320" height="92" rx="12" fill="#e7f5f3" stroke="#137e78" stroke-width="2"/>
+<text x="868" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">03  Studi site &amp; waktu</text>
+<rect x="850" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M1010.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="866" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="866" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Site analysis + science + planner</text>
+<text x="866" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="866" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Peta orbital, lingkungan dan opsi</text>
+<text x="866" y="558" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">kedatangan.</text>
+<text x="866" y="594" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="866" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Lakukan screening spasial dan temporal;</text>
+<text x="866" y="630" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">detail halaman 02.</text>
+<text x="866" y="666" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="866" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Shortlist site–window dan alasan</text>
+<text x="866" y="702" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">pemilihan.</text>
+<text x="866" y="738" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="866" y="756" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Ada pasangan site–waktu yang layak</text>
+<text x="866" y="774" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">ditelaah?</text>
+<text x="866" y="810" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="866" y="828" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R2 §5.3; R3 p.1.</text>
+<path d="M770 266.0 H845" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="1250" y="220" width="320" height="92" rx="12" fill="#e7f5f3" stroke="#137e78" stroke-width="2"/>
+<text x="1268" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">04  Rencanakan traverse</text>
+<rect x="1250" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M1410.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="1266" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="1266" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Strategic planner + science</text>
+<text x="1266" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="1266" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Shortlist, target dan model rover.</text>
+<text x="1266" y="576" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="1266" y="594" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Bangun rute serta jadwal dengan</text>
+<text x="1266" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">resource margins; detail halaman 03.</text>
+<text x="1266" y="648" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="1266" y="666" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Keluarga strategic plans dan</text>
+<text x="1266" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">contingency.</text>
+<text x="1266" y="720" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="1266" y="738" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Target terjangkau tanpa melanggar</text>
+<text x="1266" y="756" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">constraints?</text>
+<text x="1266" y="792" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="1266" y="810" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R3 p.1.</text>
+<path d="M1170 266.0 H1245" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="1650" y="220" width="320" height="92" rx="12" fill="#edf2fc" stroke="#4768ad" stroke-width="2"/>
+<text x="1668" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">05  Rancang &amp; uji sistem</text>
+<rect x="1650" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M1810.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="1666" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="1666" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Engineering + integration/test</text>
+<text x="1666" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="1666" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Requirements dan skenario operasi.</text>
+<text x="1666" y="576" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="1666" y="594" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Iterasi design, verifikasi, integrasi,</text>
+<text x="1666" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">dan simulasi operasi.</text>
+<text x="1666" y="648" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="1666" y="666" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Bukti pengujian dan plan yang</text>
+<text x="1666" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">diperbarui.</text>
+<text x="1666" y="720" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="1666" y="738" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Desain dan rencana memenuhi kebutuhan?</text>
+<text x="1666" y="774" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="1666" y="792" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R1 §3.4–3.6.</text>
+<path d="M1570 266.0 H1645" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="2050" y="220" width="320" height="92" rx="12" fill="#fff3d9" stroke="#a77316" stroke-width="2"/>
+<text x="2068" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">06  Review readiness</text>
+<rect x="2050" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M2210.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="2066" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="2066" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Project authority +</text>
+<text x="2066" y="504" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">flight/science/engineering</text>
+<text x="2066" y="540" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="2066" y="558" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Bukti test, risiko dan prosedur.</text>
+<text x="2066" y="594" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="2066" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Review kesiapan tim, sistem dan</text>
+<text x="2066" y="630" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">operasi; detail halaman 03.</text>
+<text x="2066" y="666" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="2066" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Persetujuan atau daftar tindakan</text>
+<text x="2066" y="702" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">koreksi.</text>
+<text x="2066" y="738" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="2066" y="756" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Siap melanjutkan sesuai otoritas misi?</text>
+<text x="2066" y="792" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="2066" y="810" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R1 §3.6; nama review mengikuti proyek.</text>
+<path d="M1970 266.0 H2045" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="2450" y="220" width="320" height="92" rx="12" fill="#f0eef6" stroke="#78658c" stroke-width="2"/>
+<text x="2468" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">07  Launch &amp; transfer</text>
+<rect x="2450" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M2610.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="2466" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="2466" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Launch provider + flight dynamics</text>
+<text x="2466" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="2466" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Flight plan dan persetujuan readiness.</text>
+<text x="2466" y="576" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="2466" y="594" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Handoff ke spesialis untuk launch,</text>
+<text x="2466" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">navigasi dan transfer lunar.</text>
+<text x="2466" y="648" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="2466" y="666" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">State kendaraan dan estimasi arrival</text>
+<text x="2466" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">terbaru.</text>
+<text x="2466" y="720" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="2466" y="738" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Perlu koreksi atau pembaruan surface</text>
+<text x="2466" y="756" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">plan?</text>
+<text x="2466" y="792" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="2466" y="810" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R1 §3.6–3.7; sintesis handoff.</text>
+<path d="M2370 266.0 H2445" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="2850" y="220" width="320" height="92" rx="12" fill="#f0eef6" stroke="#78658c" stroke-width="2"/>
+<text x="2868" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">08  Landing &amp; commissioning</text>
+<rect x="2850" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M3010.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="2866" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="2866" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Lander team + rover operations</text>
+<text x="2866" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="2866" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Arrival state, landing solution,</text>
+<text x="2866" y="558" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">telemetry.</text>
+<text x="2866" y="594" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="2866" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Landing, checkout, konfirmasi lokasi</text>
+<text x="2866" y="630" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">dan kesiapan egress.</text>
+<text x="2866" y="666" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="2866" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Kondisi awal rover untuk surface</text>
+<text x="2866" y="702" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">operations.</text>
+<text x="2866" y="738" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="2866" y="756" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Aktifkan plan aktual atau contingency?</text>
+<text x="2866" y="792" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="2866" y="810" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R1 §3.6–3.7; sintesis handoff.</text>
+<path d="M2770 266.0 H2845" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="3250" y="220" width="320" height="92" rx="12" fill="#e7f5f3" stroke="#137e78" stroke-width="2"/>
+<text x="3268" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">09  Jalankan &amp; replan</text>
+<text x="3268" y="282" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">operasi</text>
+<rect x="3250" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M3410.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="3266" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="3266" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Tactical planner +</text>
+<text x="3266" y="504" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">flight/science/engineering</text>
+<text x="3266" y="540" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="3266" y="558" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Telemetry, hasil sains dan situasi</text>
+<text x="3266" y="576" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">terbaru.</text>
+<text x="3266" y="612" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="3266" y="630" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Susun, validasi, approve, lalu jalankan</text>
+<text x="3266" y="648" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">aktivitas; detail halaman 04.</text>
+<text x="3266" y="684" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="3266" y="702" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Aktivitas tereksekusi dan plan</text>
+<text x="3266" y="720" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">berikutnya.</text>
+<text x="3266" y="756" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="3266" y="774" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Lanjut, replan, atau safe state?</text>
+<text x="3266" y="810" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="3266" y="828" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R2 §6.4; R3 p.2.</text>
+<path d="M3170 266.0 H3245" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="3650" y="220" width="320" height="92" rx="12" fill="#fff3d9" stroke="#a77316" stroke-width="2"/>
+<text x="3668" y="258" font-family="Arial, sans-serif" font-size="20" fill="#163447" font-weight="700">10  Evaluasi &amp; closeout</text>
+<rect x="3650" y="440" width="320" height="408" rx="8" fill="#f7f9fb" stroke="#dbe4ea"/>
+<path d="M3810.0 312 V440" stroke="#cad6df" stroke-dasharray="3 6"/>
+<text x="3666" y="468" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">AKTOR / PEMILIK</text>
+<text x="3666" y="486" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Science + data team + project authority</text>
+<text x="3666" y="522" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">INPUT</text>
+<text x="3666" y="540" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Hasil misi dan kondisi akhir aset.</text>
+<text x="3666" y="576" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">METODE</text>
+<text x="3666" y="594" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Nilai capaian, arsipkan data dan</text>
+<text x="3666" y="612" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">jalankan closeout yang disetujui.</text>
+<text x="3666" y="648" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">OUTPUT</text>
+<text x="3666" y="666" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Produk sains, final report, lessons</text>
+<text x="3666" y="684" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">learned.</text>
+<text x="3666" y="720" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">KEPUTUSAN</text>
+<text x="3666" y="738" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">Misi selesai atau ada extension</text>
+<text x="3666" y="756" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">berotorisasi?</text>
+<text x="3666" y="792" font-family="Arial, sans-serif" font-size="12" fill="#137e78" font-weight="700">BUKTI / KONTEKS</text>
+<text x="3666" y="810" font-family="Arial, sans-serif" font-size="14" fill="#263e50" font-weight="400">R1 §3.8–3.9.</text>
+<path d="M3570 266.0 H3645" stroke="#63798a" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M3410.0 312 V350 H1410.0 V317" stroke="#aa6a22" stroke-width="2" fill="none" marker-end="url(#amber)"/>
+<text x="1430.0" y="343" font-family="Arial, sans-serif" font-size="13" fill="#915b1d" font-weight="400">Perubahan besar: replan strategic</text>
+<path d="M1810.0 312 V390 H610.0 V317" stroke="#aa6a22" stroke-width="2" fill="none" marker-end="url(#amber)"/>
+<text x="630.0" y="383" font-family="Arial, sans-serif" font-size="13" fill="#915b1d" font-weight="400">Temuan design/test: revisi requirements atau plan</text>
+<text x="50" y="967" font-family="Arial, sans-serif" font-size="14" fill="#63798a" font-weight="400">SINTESIS SUMBER PUBLIK • Bukan SOP internal NASA • Urutan, gate, panel dan mapping adalah penyederhanaan desain • Dibuat 01 Nov 2026</text>
+</svg>

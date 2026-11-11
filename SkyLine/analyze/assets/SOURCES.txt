@@ -1,0 +1,27 @@
+Asset sources
+
+Moon color texture: NASA Scientific Visualization Studio, CGI Moon Kit, ID 4720.
+https://svs.gsfc.nasa.gov/4720/
+Downloaded 24 October 2026: lroc_color_2k.jpg (2048 x 1024).
+Visualization by Ernie Wright. Source imagery from LRO instrument teams.
+This texture is optimized for aesthetics, not science. No terrain, lighting, or ephemeris analysis uses it.
+
+learn-sun.svg and learn-earth.svg preserve the educational illustrations from the original Skyline source.
+
+Barlow and Barlow Condensed: Google Fonts / The Barlow Project Authors.
+https://github.com/google/fonts/tree/main/ofl/barlow
+https://github.com/google/fonts/tree/main/ofl/barlowcondensed
+Font license texts are included in fonts/.
+
+Three.js 0.186.0: official npm distribution, including OrbitControls.
+https://registry.npmjs.org/three/-/three-0.186.0.tgz
+MIT license included in three/LICENSE.txt. All modules are served locally.
+
+Moon relief: NASA Scientific Visualization Studio CGI Moon Kit, ID 4720.
+https://svs.gsfc.nasa.gov/4720/
+Derived from ldem_16_uint.tif (LOLA global elevation, 16 pixels per degree), resampled and converted to 8-bit for visual bump shading. Relief is exaggerated and does not provide terrain-aware calculations. Credit: NASA Scientific Visualization Studio / Ernie Wright.
+
+Moon 4K color: NASA Scientific Visualization Studio CGI Moon Kit, ID 4720.
+https://svs.gsfc.nasa.gov/4720/
+Derived from lroc_color_16bit_srgb_4k.tif, converted to WebP for display. Credit: NASA Scientific Visualization Studio / Ernie Wright.
+Inter font: Google Fonts / Inter Project Authors, SIL Open Font License 1.1; see fonts/Inter-OFL.txt.

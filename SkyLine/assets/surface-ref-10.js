@@ -1,0 +1,2 @@
+// Explore-only anchors: keep local reading navigation separate from the app tabs.
+(()=>{document.querySelectorAll('#explore [data-explore-anchor]').forEach(link=>link.addEventListener('click',e=>{const target=document.querySelector(link.getAttribute('href'));if(!target)return;e.preventDefault();target.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});const heading=target.querySelector('h2');if(heading){heading.tabIndex=-1;heading.focus({preventScroll:true});}}));})();
